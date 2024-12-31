@@ -44,10 +44,3 @@ The game uses a .ber file as the map input. The map must adhere to the following
 	3.	The map must be surrounded by walls (1).
 	4.	The player must be able to reach all collectibles and the exit.
 
-Example map (map.ber):
-
-`111111`
-`1P0C01`
-`100001`
-`1C0E11`
-`111111`
