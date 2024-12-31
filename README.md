@@ -46,8 +46,8 @@ The game uses a .ber file as the map input. The map must adhere to the following
 
 Example map (map.ber):
 
-`111111
-1P0C01
-100001
-1C0E11
-111111`
+`111111`
+`1P0C01`
+`100001`
+`1C0E11`
+`111111`
